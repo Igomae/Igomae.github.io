@@ -123,20 +123,20 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:koreainsung050825@naver.com"
+      url: "mailto:koreainsung050825@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://your-website.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/Igomae"
+      url: "https://github.com/Igomae"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/Igomae"
+      url: "https://github.com/Igomae"
 
 
 # Reading Files
