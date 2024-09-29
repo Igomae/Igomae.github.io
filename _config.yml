@@ -126,7 +126,7 @@ author:
       url: "mailto:koreainsung050825@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://your-website.com"
+      # url: "https://your-website.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Igomae"
