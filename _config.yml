@@ -23,7 +23,7 @@ future                   : true
 published                : true
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Igomae"
-description              : "언젠간 취직할 수 있겠지,,"
+description              : # "언젠간 취직할 수 있겠지,,"
 url                      : "https://Igomae.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -117,7 +117,7 @@ analytics:
 author:
   name             : "Igomae"
   avatar           : "assets/images/profile_img2.jpg"
-  bio              : "언젠간 개발자가 될 수 있겠지,,"
+  bio              : "나는.. 감자..🥔"
   location         : "South Korea"
   email            :
   links:
