@@ -2,7 +2,7 @@
 title:  "정렬 알고리즘 1. 선택 정렬"
 
 categories:
-  - 알고리즘
+  - algorithm
 tags:
   - 정렬
   - 선택 정렬
